@@ -12,7 +12,7 @@ function Header() {
                   <img src={STA} alt="" />
               </div>
               <div className='d-flex align-items-center'>
-                  <h2>Ministry of Martyers and Disabled Affairs</h2>
+                  <h2>Tunisian Automobile Company</h2>
               </div>
               <div>
                   <img src={STA} alt="" />
